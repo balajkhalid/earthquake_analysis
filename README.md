@@ -1,4 +1,4 @@
-Predicting Earthquake Magnitude: Insights from 28 Years of Seismic Data
+# Predicting Earthquake Magnitude: Insights from 28 Years of Seismic Data
 
 This project explores global earthquake patterns using a dataset of 994 recorded earthquakes from 1995 to 2023. Through data visualization, correlation analysis, and machine learning, key insights were uncovered, such as:
 
