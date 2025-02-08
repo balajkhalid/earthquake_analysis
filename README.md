@@ -3,8 +3,11 @@
 This project explores global earthquake patterns using a dataset of 994 recorded earthquakes from 1995 to 2023. Through data visualization, correlation analysis, and machine learning, key insights were uncovered, such as:
 
 ✅ Asia and Oceania experience the most earthquakes, with Japan, Indonesia, and the U.S. being the most affected.
+
 ✅ Higher-magnitude earthquakes often trigger tsunamis, emphasizing the need for early warning systems.
+
 ✅ Shallow earthquakes (< 70 km) tend to be more destructive.
+
 ✅ Random Forest was the best-performing model for magnitude prediction, achieving an MSE of 0.1365.
 
 📌 Full analysis & code available in the repository.
